@@ -1,5 +1,5 @@
 // 1. npm install -g nodemon
-// 2. open terminal and execute: nodemon arrayss.js
+// 2. open terminal and execute: `nodemon arrays.js`
 
 // Data //
 const characters = [
